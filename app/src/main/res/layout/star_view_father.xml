@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/starView_father"
+    android:layout_width="110dp"
+    android:layout_height="40dp"
+    android:background="@drawable/rounded_rectangle"
+    android:gravity="center">
+
+    <com.tyq_code.get11.View.SixAngleStarView
+        android:id="@+id/six_angle_star"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="5dp" />
+
+    <TextView
+        android:id="@+id/starView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/original_star"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp" />
+
+</LinearLayout>

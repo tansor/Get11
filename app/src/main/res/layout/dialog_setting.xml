@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/settingViewFather"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/dialog_settings_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="SET"
+        android:singleLine="true"
+        android:textColor="#fd5971"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:id="@+id/dialog_settings_combine_or_not_father"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/dialog_settings_combine_or_not_textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/rounded_dialog_button"
+            android:text="Combine?"
+            android:textColor="#FFFFFF"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <com.tyq_code.get11.View.CheckView
+            android:id="@+id/dialog_settings_combine_or_not_checkView"
+            android:layout_width="60dp"
+            android:layout_height="40dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/dialog_settings_level_father"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/dialog_settings_level_textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/rounded_dialog_button"
+            android:text="Higher Level?"
+            android:textColor="#FFFFFF"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <com.tyq_code.get11.View.CheckView
+            android:id="@+id/dialog_settings_level_checkView"
+            android:layout_width="60dp"
+            android:layout_height="40dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/dialog_settings_night_mode_father"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/dialog_settings_night_mode_textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/rounded_dialog_button"
+            android:text="Night Mode?"
+            android:textColor="#FFFFFF"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <com.tyq_code.get11.View.CheckView
+            android:id="@+id/dialog_settings_night_mode_checkView"
+            android:layout_width="60dp"
+            android:layout_height="40dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>
