@@ -14,7 +14,7 @@ Your goal is to get 11.
 <img src="assets/pic_3.png" height='500'>
 <img src="assets/pic_4.png" height='500'>
 
-##Parse dialog
+##Pause dialog
 
 <img src="assets/pic_5.png" height='500'>
 <img src="assets/pic_6.png" height='500'>
