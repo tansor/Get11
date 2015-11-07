@@ -63,18 +63,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="GameActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GameActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tyq_code/get11/Activity/GameActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="42" column="42" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
+            <state vertical-scroll-proportion="0.42991754">
+              <caret line="285" column="39" selection-start-line="285" selection-start-column="39" selection-end-line="285" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#onCreate#0;class#GameActivity#0" expanded="false" />
                 <element signature="method#initUI#0;class#GameActivity#0" expanded="false" />
                 <element signature="method#onClick#0;class#GameActivity#0" expanded="false" />
                 <element signature="class#MessageHandler#0;class#GameActivity#0" expanded="false" />
-                <element signature="method#onPause#0;class#GameActivity#0" expanded="false" />
                 <element signature="method#onDestroy#0;class#GameActivity#0" expanded="false" />
                 <element signature="class#MyDialog#0;class#GameActivity#0" expanded="false" />
                 <element signature="method#MyDialog#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
@@ -83,16 +82,15 @@
                 <element signature="method#setHelp#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
                 <element signature="method#setSetting#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
                 <element signature="method#onClick#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
-                <element signature="method#sendMessage#0;class#GameActivity#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Board.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Board.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tyq_code/get11/View/Board.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.62995595">
+            <state vertical-scroll-proportion="0.0">
               <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
               <folding>
                 <element signature="method#Board#0;class#Board#0" expanded="false" />
@@ -1969,7 +1967,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2026,7 +2024,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2317,7 +2315,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295583" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
@@ -2327,7 +2325,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5232163" sideWeight="0.509636" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4473386" sideWeight="0.49036402" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44620612" sideWeight="0.49036402" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3272933" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295583" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -2369,6 +2367,45 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tyq_code/get11/View/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="method#Board#0;class#Board#0" expanded="false" />
+            <element signature="method#Board#1;class#Board#0" expanded="false" />
+            <element signature="method#init#0;class#Board#0" expanded="false" />
+            <element signature="class#BoardHandler#0;class#Board#0" expanded="false" />
+            <element signature="class#SquareViewListener#0;class#Board#0" expanded="false" />
+            <element signature="method#addCombineView#0;class#Board#0" expanded="false" />
+            <element signature="method#addSquareView#0;class#Board#0" expanded="false" />
+            <element signature="method#combineSameView#0;class#Board#0" expanded="false" />
+            <element signature="method#cancelSameView#0;class#Board#0" expanded="false" />
+            <element signature="method#searchSameSquareView#0;class#Board#0" expanded="false" />
+            <element signature="method#moveToClickedSquareView#0;class#Board#0" expanded="false" />
+            <element signature="method#fall#0;class#Board#0" expanded="false" />
+            <element signature="method#fallNewSquareView#0;class#Board#0" expanded="false" />
+            <element signature="method#checkIsEnd#0;class#Board#0" expanded="false" />
+            <element signature="method#checkIsWin#0;class#Board#0" expanded="false" />
+            <element signature="method#gameIsOver#0;class#Board#0" expanded="false" />
+            <element signature="method#youGet11#0;class#Board#0" expanded="false" />
+            <element signature="method#shake#0;class#Board#0" expanded="false" />
+            <element signature="method#setAllSquareViewClickable#0;class#Board#0" expanded="false" />
+            <element signature="method#setTagFree#0;class#Board#0" expanded="false" />
+            <element signature="method#random#0;class#Board#0" expanded="false" />
+            <element signature="method#sendMsg#0;class#Board#0" expanded="false" />
+            <element signature="method#updateMax#0;class#Board#0" expanded="false" />
+            <element signature="method#backup#0;class#Board#0" expanded="false" />
+            <element signature="method#restore_step1#0;class#Board#0" expanded="false" />
+            <element signature="method#restore_step2#0;class#Board#0" expanded="false" />
+            <element signature="method#boardCopy#0;class#Board#0" expanded="false" />
+            <element signature="method#rearrange#0;class#Board#0" expanded="false" />
+            <element signature="method#removeAllSquareViews#0;class#Board#0" expanded="false" />
+            <element signature="method#onMeasure#0;class#Board#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../Mine_QQ/app/src/main/java/com/tyq_code/mine_qq/qzone.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2433,10 +2470,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/welcome.9.png">
-      <provider selected="true" editor-type-id="ninepatcheditor">
+      <provider editor-type-id="images">
         <state />
       </provider>
-      <provider editor-type-id="images">
+      <provider selected="true" editor-type-id="ninepatcheditor">
         <state />
       </provider>
     </entry>
@@ -2734,17 +2771,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/dialog_parse.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.63835615">
-          <caret line="54" column="53" selection-start-line="54" selection-start-column="53" selection-end-line="54" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tyq_code/get11/Controller/Definition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.67373383">
@@ -2761,33 +2787,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tyq_code/get11/Activity/GameActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="42" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#onCreate#0;class#GameActivity#0" expanded="false" />
-            <element signature="method#initUI#0;class#GameActivity#0" expanded="false" />
-            <element signature="method#onClick#0;class#GameActivity#0" expanded="false" />
-            <element signature="class#MessageHandler#0;class#GameActivity#0" expanded="false" />
-            <element signature="method#onPause#0;class#GameActivity#0" expanded="false" />
-            <element signature="method#onDestroy#0;class#GameActivity#0" expanded="false" />
-            <element signature="class#MyDialog#0;class#GameActivity#0" expanded="false" />
-            <element signature="method#MyDialog#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
-            <element signature="method#onCreate#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
-            <element signature="method#setButton#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
-            <element signature="method#setHelp#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
-            <element signature="method#setSetting#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
-            <element signature="method#onClick#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
-            <element signature="method#sendMessage#0;class#GameActivity#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tyq_code/get11/View/Board.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.62995595">
+        <state vertical-scroll-proportion="0.0">
           <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
           <folding>
             <element signature="method#Board#0;class#Board#0" expanded="false" />
@@ -2820,6 +2822,28 @@
             <element signature="method#rearrange#0;class#Board#0" expanded="false" />
             <element signature="method#removeAllSquareViews#0;class#Board#0" expanded="false" />
             <element signature="method#onMeasure#0;class#Board#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tyq_code/get11/Activity/GameActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42991754">
+          <caret line="285" column="39" selection-start-line="285" selection-start-column="39" selection-end-line="285" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#onCreate#0;class#GameActivity#0" expanded="false" />
+            <element signature="method#initUI#0;class#GameActivity#0" expanded="false" />
+            <element signature="method#onClick#0;class#GameActivity#0" expanded="false" />
+            <element signature="class#MessageHandler#0;class#GameActivity#0" expanded="false" />
+            <element signature="method#onDestroy#0;class#GameActivity#0" expanded="false" />
+            <element signature="class#MyDialog#0;class#GameActivity#0" expanded="false" />
+            <element signature="method#MyDialog#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
+            <element signature="method#onCreate#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
+            <element signature="method#setButton#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
+            <element signature="method#setHelp#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
+            <element signature="method#setSetting#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
+            <element signature="method#onClick#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
           </folding>
         </state>
       </provider>

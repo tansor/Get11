@@ -275,6 +275,7 @@ public class GameActivity extends Activity implements View.OnClickListener {
             mEditor.putString("score", "0");
             mEditor.putString("board", "");
             mEditor.putInt("max", 3);
+            mEditor.putBoolean("hasGot11", false);
         } else {
             mEditor.putString("score", "" + boardView.score);
             StringBuilder temp = new StringBuilder();
