@@ -545,8 +545,8 @@ public class Board extends RelativeLayout {
     private void updateMax() {
         int max_backup = max;
         if (score >= 500) {
-            if (!Definition.hardLevel) fall_max = 4;
-            else if (Definition.hardLevel && score >= 2000) fall_max = 5;
+            if (Definition.hardLevel && score >= 2000) fall_max = 5;
+            else fall_max = 4;
         }
         for (int i = 0; i < 5; i++) {
             for (int j = 0; j < 5; j++) {

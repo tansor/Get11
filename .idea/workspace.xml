@@ -63,17 +63,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="GameActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GameActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tyq_code/get11/Activity/GameActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.42991754">
-              <caret line="285" column="39" selection-start-line="285" selection-start-column="39" selection-end-line="285" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="505" column="68" selection-start-line="505" selection-start-column="68" selection-end-line="505" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#onCreate#0;class#GameActivity#0" expanded="false" />
                 <element signature="method#initUI#0;class#GameActivity#0" expanded="false" />
+                <element signature="e#5198#5233#0" expanded="true" />
+                <element signature="e#5236#5272#0" expanded="true" />
                 <element signature="method#onClick#0;class#GameActivity#0" expanded="false" />
+                <element signature="e#8424#8459#0" expanded="true" />
+                <element signature="e#8596#8627#0" expanded="true" />
+                <element signature="e#8938#8967#0" expanded="true" />
+                <element signature="e#9292#9327#0" expanded="true" />
+                <element signature="e#9717#9741#0" expanded="true" />
+                <element signature="e#10222#10257#0" expanded="true" />
+                <element signature="e#10573#10607#0" expanded="true" />
                 <element signature="class#MessageHandler#0;class#GameActivity#0" expanded="false" />
+                <element signature="e#11280#11320#0" expanded="true" />
+                <element signature="e#11339#11379#0" expanded="true" />
+                <element signature="e#11657#11692#0" expanded="true" />
+                <element signature="e#12278#12318#0" expanded="true" />
+                <element signature="e#12337#12377#0" expanded="true" />
+                <element signature="e#12540#12575#0" expanded="true" />
+                <element signature="e#12620#12656#0" expanded="true" />
+                <element signature="method#onPause#0;class#GameActivity#0" expanded="false" />
                 <element signature="method#onDestroy#0;class#GameActivity#0" expanded="false" />
                 <element signature="class#MyDialog#0;class#GameActivity#0" expanded="false" />
                 <element signature="method#MyDialog#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
@@ -82,16 +99,17 @@
                 <element signature="method#setHelp#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
                 <element signature="method#setSetting#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
                 <element signature="method#onClick#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
+                <element signature="method#sendMsg#0;class#GameActivity#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Board.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Board.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tyq_code/get11/View/Board.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+            <state vertical-scroll-proportion="0.27444053">
+              <caret line="544" column="30" selection-start-line="544" selection-start-column="30" selection-end-line="544" selection-end-column="30" />
               <folding>
                 <element signature="method#Board#0;class#Board#0" expanded="false" />
                 <element signature="method#Board#1;class#Board#0" expanded="false" />
@@ -115,7 +133,6 @@
                 <element signature="method#setTagFree#0;class#Board#0" expanded="false" />
                 <element signature="method#random#0;class#Board#0" expanded="false" />
                 <element signature="method#sendMsg#0;class#Board#0" expanded="false" />
-                <element signature="method#updateMax#0;class#Board#0" expanded="false" />
                 <element signature="method#backup#0;class#Board#0" expanded="false" />
                 <element signature="method#restore_step1#0;class#Board#0" expanded="false" />
                 <element signature="method#restore_step2#0;class#Board#0" expanded="false" />
@@ -1623,8 +1640,8 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/dialog_parse.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/dialog_question.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/tyq_code/get11/Controller/Definition.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/tyq_code/get11/View/Board.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/tyq_code/get11/Activity/GameActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/tyq_code/get11/View/Board.java" />
       </list>
     </option>
   </component>
@@ -1670,6 +1687,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1966,8 +1985,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2024,7 +2041,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2315,7 +2332,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295583" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
@@ -2327,7 +2344,6 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44620612" sideWeight="0.49036402" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3272933" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295583" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21788009" sideWeight="0.50622874" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997735" sideWeight="0.50214136" order="5" side_tool="true" content_ui="tabs" />
@@ -2337,14 +2353,15 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24892934" sideWeight="0.49603623" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991362" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21788009" sideWeight="0.50622874" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.398641" sideWeight="0.49785867" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.398641" sideWeight="0.49785867" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32762313" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3272933" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30690828" sideWeight="0.49357602" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32842582" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
@@ -2394,7 +2411,6 @@
             <element signature="method#setTagFree#0;class#Board#0" expanded="false" />
             <element signature="method#random#0;class#Board#0" expanded="false" />
             <element signature="method#sendMsg#0;class#Board#0" expanded="false" />
-            <element signature="method#updateMax#0;class#Board#0" expanded="false" />
             <element signature="method#backup#0;class#Board#0" expanded="false" />
             <element signature="method#restore_step1#0;class#Board#0" expanded="false" />
             <element signature="method#restore_step2#0;class#Board#0" expanded="false" />
@@ -2787,10 +2803,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tyq_code/get11/View/Board.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tyq_code/get11/Activity/GameActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+          <caret line="505" column="68" selection-start-line="505" selection-start-column="68" selection-end-line="505" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#onCreate#0;class#GameActivity#0" expanded="false" />
+            <element signature="method#initUI#0;class#GameActivity#0" expanded="false" />
+            <element signature="e#5198#5233#0" expanded="true" />
+            <element signature="e#5236#5272#0" expanded="true" />
+            <element signature="method#onClick#0;class#GameActivity#0" expanded="false" />
+            <element signature="e#8424#8459#0" expanded="true" />
+            <element signature="e#8596#8627#0" expanded="true" />
+            <element signature="e#8938#8967#0" expanded="true" />
+            <element signature="e#9292#9327#0" expanded="true" />
+            <element signature="e#9717#9741#0" expanded="true" />
+            <element signature="e#10222#10257#0" expanded="true" />
+            <element signature="e#10573#10607#0" expanded="true" />
+            <element signature="class#MessageHandler#0;class#GameActivity#0" expanded="false" />
+            <element signature="e#11280#11320#0" expanded="true" />
+            <element signature="e#11339#11379#0" expanded="true" />
+            <element signature="e#11657#11692#0" expanded="true" />
+            <element signature="e#12278#12318#0" expanded="true" />
+            <element signature="e#12337#12377#0" expanded="true" />
+            <element signature="e#12540#12575#0" expanded="true" />
+            <element signature="e#12620#12656#0" expanded="true" />
+            <element signature="method#onPause#0;class#GameActivity#0" expanded="false" />
+            <element signature="method#onDestroy#0;class#GameActivity#0" expanded="false" />
+            <element signature="class#MyDialog#0;class#GameActivity#0" expanded="false" />
+            <element signature="method#MyDialog#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
+            <element signature="method#onCreate#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
+            <element signature="method#setButton#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
+            <element signature="method#setHelp#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
+            <element signature="method#setSetting#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
+            <element signature="method#onClick#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
+            <element signature="method#sendMsg#0;class#GameActivity#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tyq_code/get11/View/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27444053">
+          <caret line="544" column="30" selection-start-line="544" selection-start-column="30" selection-end-line="544" selection-end-column="30" />
           <folding>
             <element signature="method#Board#0;class#Board#0" expanded="false" />
             <element signature="method#Board#1;class#Board#0" expanded="false" />
@@ -2814,7 +2870,6 @@
             <element signature="method#setTagFree#0;class#Board#0" expanded="false" />
             <element signature="method#random#0;class#Board#0" expanded="false" />
             <element signature="method#sendMsg#0;class#Board#0" expanded="false" />
-            <element signature="method#updateMax#0;class#Board#0" expanded="false" />
             <element signature="method#backup#0;class#Board#0" expanded="false" />
             <element signature="method#restore_step1#0;class#Board#0" expanded="false" />
             <element signature="method#restore_step2#0;class#Board#0" expanded="false" />
@@ -2822,28 +2877,6 @@
             <element signature="method#rearrange#0;class#Board#0" expanded="false" />
             <element signature="method#removeAllSquareViews#0;class#Board#0" expanded="false" />
             <element signature="method#onMeasure#0;class#Board#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tyq_code/get11/Activity/GameActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42991754">
-          <caret line="285" column="39" selection-start-line="285" selection-start-column="39" selection-end-line="285" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#onCreate#0;class#GameActivity#0" expanded="false" />
-            <element signature="method#initUI#0;class#GameActivity#0" expanded="false" />
-            <element signature="method#onClick#0;class#GameActivity#0" expanded="false" />
-            <element signature="class#MessageHandler#0;class#GameActivity#0" expanded="false" />
-            <element signature="method#onDestroy#0;class#GameActivity#0" expanded="false" />
-            <element signature="class#MyDialog#0;class#GameActivity#0" expanded="false" />
-            <element signature="method#MyDialog#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
-            <element signature="method#onCreate#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
-            <element signature="method#setButton#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
-            <element signature="method#setHelp#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
-            <element signature="method#setSetting#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
-            <element signature="method#onClick#0;class#MyDialog#0;class#GameActivity#0" expanded="false" />
           </folding>
         </state>
       </provider>
